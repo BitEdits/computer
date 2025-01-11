@@ -1,0 +1,23 @@
+1 · 1977 · TRS-80
+1 · 1977 · Apple ][
+1 · 1977 · Commodore PET
+1 · 1979 · Atari 800 XL
+1 · 1982 · Sinclair ZX Spectrum
+1 · 1982 · Commodore 64
+1 · 1983 · MSX
+1 · 1985 · MSX 2
+1 · 1988 · MSX 2+
+2 · 1975 · PDP-11/70
+2 · 1983 · IBM PC XT
+2 · 1986 · Apple IIGS
+2 · 1984 · IBM PC AT/286
+3 · 1992 · Amiga 600
+3 · 1992 · Amiga 1200
+3 · 1987 · Amiga 2000
+3 · 1993 · Atari ST
+3 · 1989 · Apple Macintosh SE/30
+3 · 1993 · Apple Macintosh LC 475
+3 · 1994 · PC Chips M396F + Intel 386SX
+3 · 1997 · Apple Power Macintosh 9600
+3 · 1997 · ASUS TX97-XE + Intel Pentium MMX
+4 · 2006 · Intel Core 2 Duo (Merom) EM64T

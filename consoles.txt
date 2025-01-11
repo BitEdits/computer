@@ -4,14 +4,6 @@
 2 · 1979 · Intellivision
 2 · 1982 · ColecoVision
 2 · 1982 · Vectrex
-1 · 1977 · TRS-80
-1 · 1977 · Apple ][
-1 · 1977 · Commodore PET
-1 · 1979 · Atari 800 XL
-1 · 1982 · Commodore 64
-1 · 1983 · MSX
-1 · 1985 · MSX 2
-1 · 1988 · MSX 2+
 3 · 1983 · Nintendo Entertainment System
 3 · 1985 · Sega Master System
 3 · 1986 · Atari 7800
