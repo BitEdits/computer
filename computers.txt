@@ -4,8 +4,11 @@
 1 · 1979 · Atari 800 XL
 1 · 1982 · Sinclair ZX Spectrum
 1 · 1982 · Commodore 64
+1 · 1982 · Sharp MZ-700
+1 · 1982 · Sharp X1
 1 · 1983 · MSX
 1 · 1985 · MSX 2
+1 · 1987 · Sharp X68000
 1 · 1988 · MSX 2+
 2 · 1975 · PDP-11/70
 2 · 1983 · IBM PC XT
